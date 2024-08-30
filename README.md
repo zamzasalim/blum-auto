@@ -35,8 +35,6 @@ git clone https://github.com/zamzasalim/blum-auto
 cd blum-auto
 ```
 ```
-python3 -m pip install -r requirements.txt
-```
 
 ## Edit data.txt lalu isikan query id telegram klen
 ```
