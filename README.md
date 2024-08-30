@@ -1,6 +1,6 @@
 # Blum Auto Bot
 
-##Features
+## Features
 
 - Automatic farming and balance claiming
 - Task completion automation
@@ -9,7 +9,7 @@
 - Automated game playing and reward collection
 - Support multiple accounts
 
-##instal
+## instal
 ```
 sudo apt update && sudo apt upgrade
 ```
