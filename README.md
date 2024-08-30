@@ -36,6 +36,7 @@ cd blum-auto
 
 
 ## Edit data.txt lalu isikan query id telegram klian
+
 ```
 nano data.txt
 ```
