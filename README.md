@@ -33,8 +33,7 @@ git clone https://github.com/zamzasalim/blum-auto
 ```
 ```
 cd blum-auto
-```
-```
+
 
 ## Edit data.txt lalu isikan query id telegram klian
 ```
