@@ -1,12 +1,13 @@
 # Blum Auto Bot
 
-#feature
- Automatic farming and balance claiming
-Task completion automation
-Daily reward claiming
-Friend balance management
-Automated game playing and reward collection
-Support multiple accounts
+##Features
+
+- Automatic farming and balance claiming
+- Task completion automation
+- Daily reward claiming
+- Friend balance management
+- Automated game playing and reward collection
+- Support multiple accounts
 
 ##instal
 ```
